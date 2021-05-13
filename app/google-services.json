@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303516930018",
+    "project_id": "quizinsect",
+    "storage_bucket": "quizinsect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303516930018:android:510962b0bb463d1bf9b3bb",
+        "android_client_info": {
+          "package_name": "com.moon.quizinsect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303516930018-0l1ee3dtc4ac442iu09rvaipgme4rfm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quizinsect",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "303516930018-nm5e14dujqqa3o3tqd1rlim2ftq5t29e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_UqbrZ9B_Kv7dBE-Ut2MQLZ3J2ITJSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303516930018-nm5e14dujqqa3o3tqd1rlim2ftq5t29e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
